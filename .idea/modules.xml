@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Advance_Java_Foundation_JDBC.iml" filepath="$PROJECT_DIR$/.idea/Advance_Java_Foundation_JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1_intro/day1_intro.iml" filepath="$PROJECT_DIR$/day1_intro/day1_intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first_JDBC_project/first_JDBC_project.iml" filepath="$PROJECT_DIR$/first_JDBC_project/first_JDBC_project.iml" />
+    </modules>
+  </component>
+</project>
